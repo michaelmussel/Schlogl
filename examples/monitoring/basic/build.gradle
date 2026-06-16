@@ -1,0 +1,11 @@
+plugins {
+    id 'java'
+    id 'stark.java-application-conventions'
+}
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation project(':lib')
+}
