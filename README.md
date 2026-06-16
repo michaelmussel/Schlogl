@@ -1,3 +1,4 @@
+# This repository was cloned from \url{https://github.com/the-stark-tool/STARK/} for the purpose of analyzing the Schlogl Model in Bio-STARK. 
 # STARK
 
 We present a *Software Tool for the Analysis of Robustness in the unKnown environment* (STARK), our JAVA tool that constitutes the core of our framework for the specification and analysis of properties of distances between the behaviours of systems operating in the presence of uncertainties.
